@@ -1,6 +1,6 @@
 Normally Tic toc toe play with 3X3 boxes but in this iOS app user can play 4X4 tic tac toe with greate UI
 
-<img src="./Screenshots/First.jpeg" >
+<img src="./Screenshots/First.jpeg" width="200" >
 
 As you can see first whenever user will open the file at that time "TicTacToeVC" viewController will load which is mainy responsible for handling UI and logic part for the whole game.
 There are total 16 boxes with 4X4 formate in the UI.
